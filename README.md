@@ -38,11 +38,17 @@ Run:
 Example output
 
 Enter a number between 0 to 10
+
 3
+
 Wrong, try again!
+
 The correct number was: 7
+
 Enter a number between 0 to 10
+
 7
+
 Correct! Good job!!
 
 ---------------------------------------------
