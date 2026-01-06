@@ -10,6 +10,7 @@ The user is asked to input a number in that range.
 If the user enters a number outside the range, the program asks again.
 If the guess is wrong, the program shows the correct number, generates a new one, and continues.
 The game ends only when the user guesses the correct number.
+
 ------------------------------------------------
 Concepts used
 
@@ -19,6 +20,7 @@ if statements
 do-while loops
 Input validation
 Random numbers using rand(), srand(), and time()
+
 -------------------------------------------------
 How to compile and run
 
@@ -31,6 +33,7 @@ g++ main.cpp -o guessing_game
 Run:
 
 ./guessing_game
+
 ----------------------------------------------
 Example output
 
@@ -41,10 +44,12 @@ The correct number was: 7
 Enter a number between 0 to 10
 7
 Correct! Good job!!
+
 ---------------------------------------------
 Purpose
 
 This project was created as a beginner exercise to improve understanding of loops, conditionals, and user input handling in C++.
+
 --------------------------------------------
 Improvements
 
